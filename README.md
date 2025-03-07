@@ -115,7 +115,6 @@
     </style>
 </head>
 <body>
- <a href="T.1.html">TPC T.1</a>
     <header>
         <h1>Zun’s FM - Moda & Estilo</h1>
         <nav>
